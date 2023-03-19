@@ -380,3 +380,5 @@ If you have a module whose methods you would like to be used in another class as
 
 If you want a module's methods to be used in another class as **class methods**,
 you must **extend** the module.
+
+https://github.com/G3o-R/phase-3-ruby-oo-inheritance-modules
